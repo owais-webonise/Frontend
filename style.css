@@ -68,6 +68,7 @@ body {
 
 #change_font {
 	font-style: italic;
+	border-bottom: 1px solid #D3D3D3;
 }
 
 #footer_color {
@@ -78,6 +79,10 @@ body {
      float: right;
 	font-size: 11px;
 
+}
+
+#border_line {
+	border-bottom: 1px solid #3d3d3d;
 }
 .navbar-default {
      background-color: #3355aa;
@@ -134,7 +139,7 @@ img.scaled {
    width: 100%;
    background-color:#333333;
    color: white;
-   border-bottom: 1px solid #3d3d3d;
+   /*border-bottom: 1px solid #3d3d3d;*/
 }
 
 .fixed-footer {
